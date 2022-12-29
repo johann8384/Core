@@ -2,21 +2,21 @@
   "name": "resgrid",
   "version": "2.0.0",
   "devDependencies": {
-    "clean-css": "^3.4.23",
-    "dateformat": "^2.0.0",
-    "gulp": "^3.9.1",
-    "gulp-concat": "2.5.2",
-    "gulp-cssmin": "0.1.7",
-    "gulp-sass": "2.1.1",
-    "gulp-uglify": "1.2.0",
-    "har-validator": "^4.2.0",
-    "mkdirp": "^0.5.1",
-    "node-sass": "^3.13.1",
-    "rimraf": "2.2.8",
-    "sass": "^0.5.0"
+    "clean-css": "^5.3.1",
+    "dateformat": "^5.0.3",
+    "gulp": "4.0.2",
+    "gulp-concat": "2.6.1",
+    "gulp-cssmin": "0.2.0",
+    "gulp-sass": "5.1.0",
+    "gulp-uglify": "3.0.2",
+    "har-validator": "5.1.5",
+    "mkdirp": "1.0.4",
+    "node-sass": "8.0.0",
+    "rimraf": "3.0.2",
+    "sass": "1.54.9"
   },
   "dependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-react-app": "^3.1.2"
+    "babel-cli": "6.26.0",
+    "babel-preset-react-app": "10.0.1"
   }
 }
